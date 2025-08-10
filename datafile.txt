@@ -1,0 +1,44 @@
+f4 120 babeloued 50 f48392
+f4 130 belouizdad 200 f42931
+f3 75 algercentre 300 f37582
+f2 60 elharrach 400 f28194
+studio 35 elmadania 100 st2379
+f3 70 sidiabderrahmane 250 f38741
+f4 105 kouba 150 f45721
+f4 95 elbirou 300 f48820
+f3 90 elghorfa 500 f31578
+f2 55 babeloued 350 f27653
+studio 45 ouledfayet 120 st1347
+f4 140 benaknoun 400 f49983
+f3 85 elcasbah 200 f34816
+f2 50 elharrach 500 f29174
+studio 40 elmadania 80 st2154
+f4 110 belouizdad 600 f41268
+f3 75 ouedsmar 300 f32849
+f2 65 babeloued 450 f27405
+studio 30 kasbah 50 st1865
+f4 125 kouba 350 f49710
+f3 80 elbirou 250 f36128
+f2 70 ouledfayet 400 f23975
+studio 38 sidimhamed 150 st1284
+
+ahmed boudiaf 0561234567
+karim benali 0770987654
+sofia messaoudi 0562555123
+yasmina khelifi 0771786342
+mohamed zerrouki 0561324876
+leila ziani 0770654321
+ali belhadj 0563987112
+nadia bouzid 0771222990
+amine tlemcani 0562788654
+samira fodil 0770456789
+hassan lounis 0561567823
+djamila kaouachi 0770342876
+faisal saidi 0563332611
+sabrina harouni 0771456234
+rami boudjemaa 0562119453
+imane chouaib 0770764135
+khaled bachir 0561943782
+amina ghanem 0771222556
+youssef mbarek 0563567110
+zineb boudiaf 0770432654
